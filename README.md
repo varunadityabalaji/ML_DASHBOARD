@@ -1,2 +1,2 @@
 # ML_DASHBOARD
-Personal DASHBOARD OF MY ML AND DEEP LEARNING PROJECTS
+Personal Dashboard of my ML projects
